@@ -1,0 +1,59 @@
+<h1 class="pb-4">Register</h1>
+<p class="grey-text text-darken-1">
+  Already have an account? <a href="/login">Log in</a>
+</p>
+<div class="row row-cols-2 row-cols-lg-5 g-2 g-lg-3">
+
+            <form noValidate action="/register" method="POST">
+              <div class="input-field col s12">
+                <label htmlFor="name">Name</label>
+                <input
+                  id="name"
+                  name="name"
+                  type="text"
+                />
+                
+              </div>
+              <div class="input-field col s12">
+                <label htmlFor="email">Email</label>
+                <input
+                  id="email"
+                  name="email"
+                  type="email"
+                />
+                
+              </div>
+              <div class="input-field col s12">
+                <label htmlFor="password">Password</label>
+                <input
+                  id="password"
+                  name="password"
+                  type="password"
+                />
+                
+              </div>
+              <div class="input-field col s12">
+                <label htmlFor="password2">Confirm Password</label>
+                <input
+                  id="password2"
+                  name="password2"
+                  type="password"
+                />
+                
+              </div>
+              <div class="col s12" style="padding-left: 11.250px">
+                <button
+                  style="
+                    width: 150px;
+                    border-radius: 3px;
+                    letter-spacing: 1.5px;
+                    margin-top: 1rem"
+                  type="submit"
+                  class="btn btn-dark"
+                >
+                  Sign up
+                </button>
+              </div>
+            </form>
+          
+      </div>
