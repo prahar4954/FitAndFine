@@ -14,3 +14,6 @@ MERN Stack
 </ul>
 
 
+<br>
+<hr>
+Built by: Prahar, Vishwa, Maitrey
