@@ -9,8 +9,8 @@ Through “Fit n Fine”, we try to provide a platform where people be it novice
 MERN Stack
 <ul>
   <li>Frontend Tech Stack: React JS </li>
-Backend Tech Stack: Node JS
-Database Tech Stack: Mongo DB
+ <li>Backend Tech Stack: Node JS </li>
+ <li>Database Tech Stack: Mongo DB </li>
 </ul>
 
 
