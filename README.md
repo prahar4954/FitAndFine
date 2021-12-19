@@ -5,10 +5,12 @@ Everyone wants to lead a fit life. There are so many fitness applications and we
 Through “Fit n Fine”, we try to provide a platform where people be it novice to fitness enthusiasts can analyze their daily activities, shop, seek advice, read about it, and get inspired. “Fit n Fine” is a Web Application where people can track their diet, workout, water intake, sleep habits, etc. 
 
 <h3> Tech Stacks used: </h3>
+
 MERN Stack
-Frontend Tech Stack: React JS 
+<ul>
+  <li>Frontend Tech Stack: React JS </li>
 Backend Tech Stack: Node JS
 Database Tech Stack: Mongo DB
-
+</ul>
 
 
