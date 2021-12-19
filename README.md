@@ -16,4 +16,4 @@ MERN Stack
 
 <br>
 <hr>
-Built by: Prahar, Vishwa, Maitrey
+Built by: Prahar, Vishwa, Maitrey as a part of Software project Management final project
